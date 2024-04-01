@@ -1,12 +1,8 @@
-# readme
+I'm currently a student at **Dwight-Englewood High School** with a strong interest in pursuing a major in **Computer Science** in college.
 
-# I am a student at Dwight-Englewood High School
-# targeted major in college is computer science
-
-# Interests:
-# Artificial Intelligence
-# Machine Learning
-# How to apply AI to streamline our everyday life
-# Problem solving with coding at a high level
-# Integration of math and coding
-
+### Interests:
+- **Artificial Intelligence (AI):** Exploring the boundaries of AI and its capabilities.
+- **Machine Learning:** Diving into the algorithms that enable machines to learn from data.
+- **Applying AI:** Finding innovative ways to streamline our everyday lives through AI.
+- **Problem Solving:** Leveraging coding to tackle complex problems at a high level.
+- **Math and Coding:** Exploring the integration between mathematics and coding to solve real-world issues.
